@@ -7,11 +7,13 @@
 }
 
 .parallax{
-  /* transform: rotate(90deg); */
-  
-  background: url('img/ocean.jpg') no-repeat center;
+  background: url('../img2/ocean.jpg') no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   height: 500px;
+}
 
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
 }
