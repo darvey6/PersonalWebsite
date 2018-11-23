@@ -30,7 +30,9 @@ body {
 .tan{
   color: #8e6a3a;
 }
-
+.fa-suitcase{
+  padding-right: 20px;
+}
 .fa-calendar{
   padding-right: 20px;
 }
