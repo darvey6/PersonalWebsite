@@ -3,7 +3,7 @@ body, html {
     height: 100%;
     color: #black;
     line-height: 1.8;
-}
+  }
 
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-2, .bgimg-3 {
@@ -45,3 +45,29 @@ body, html {
 .fa-user{
   padding-right: 5px
 }
+
+#home {
+  text-align: center;
+}
+/*
+@media screen and (max-width: 1024px) {
+your font  style goes here
+
+}
+
+@media screen and (max-width: 950px) {
+ your font  style goes here
+
+}
+
+
+@media screen and (max-width: 650px) {
+ your font  style goes here
+
+
+}
+
+@media screen and (max-width: 480px) {
+ your font  style goes here
+
+} */
