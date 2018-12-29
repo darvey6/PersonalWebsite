@@ -14,7 +14,7 @@ body, html {
 }
 /* index  image (Logo. Full height) */
 .bgimg-0 {
-    background-image: url('./img2/alumni.jpg');
+    background-image: url('./img2/ocean.jpg');
     min-height: 100%;
 }
 /* First image (Logo. Full height) */
@@ -54,7 +54,16 @@ body, html {
   text-align: center;
 }
 
+.fblogo {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    /* height: 30px; */
+}
 
+#images{
+    text-align:center;
+}
 /*
 @media screen and (max-width: 1024px) {
 your font  style goes here
